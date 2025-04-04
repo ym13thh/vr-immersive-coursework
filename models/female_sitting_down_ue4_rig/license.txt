@@ -1,0 +1,11 @@
+Model Information:
+* title:	Female Sitting Down Animation UE4 rig
+* source:	https://sketchfab.com/3d-models/female-sitting-down-animation-ue4-rig-6c244f030787482290268dfbbfda77ab
+* author:	B._.render (https://sketchfab.com/Brendan_489)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Female Sitting Down Animation UE4 rig" (https://sketchfab.com/3d-models/female-sitting-down-animation-ue4-rig-6c244f030787482290268dfbbfda77ab) by B._.render (https://sketchfab.com/Brendan_489) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
